@@ -1,5 +1,6 @@
 # textgenerator-
-a generator of Chinese  character img
+a generator of Chinese  
+character img
 python step1.py  
 获得从text.txt 文字渲染得到的原始图片  
 python step2.py  
